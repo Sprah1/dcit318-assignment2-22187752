@@ -1,0 +1,15 @@
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\bin\Debug\net10.0\dcit318-assignment2-22187752.exe
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\bin\Debug\net10.0\dcit318-assignment2-22187752.deps.json
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\bin\Debug\net10.0\dcit318-assignment2-22187752.runtimeconfig.json
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\bin\Debug\net10.0\dcit318-assignment2-22187752.dll
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\bin\Debug\net10.0\dcit318-assignment2-22187752.pdb
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.AssemblyInfoInputs.cache
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.AssemblyInfo.cs
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.csproj.CoreCompileInputs.cache
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.sourcelink.json
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.dll
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\refint\dcit318-assignment2-22187752.dll
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.pdb
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\dcit318-assignment2-22187752.genruntimeconfig.cache
+C:\Users\ASIMON\downloads\dcit318-assignment2-22187752\obj\Debug\net10.0\ref\dcit318-assignment2-22187752.dll
